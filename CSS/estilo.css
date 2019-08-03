@@ -1,0 +1,17 @@
+/*
+Modelo de Caixa
+*/
+
+.conteudo {
+    border: 2px solid blue;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    width: 100px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
